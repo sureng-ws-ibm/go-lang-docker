@@ -1,4 +1,4 @@
-module "https://github.com/sureng-ws-ibm/go-lang-docker"
+module github.com/sureng-ws-ibm/go-lang-docker
 
 go 1.17
 
