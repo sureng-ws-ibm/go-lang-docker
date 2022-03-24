@@ -1,6 +1,6 @@
 module "https://github.com/sureng-ws-ibm/go-lang-docker"
 
-go 1.12
+go 1.17
 
 require github.com/docker/docker v20.10.13+incompatible
 
