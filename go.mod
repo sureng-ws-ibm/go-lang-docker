@@ -6,6 +6,7 @@ require github.com/docker/docker v20.10.13+incompatible
 
 require (
 	github.com/Microsoft/go-winio v0.5.1 // indirect
+	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
 	github.com/containerd/containerd v1.6.1 // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
