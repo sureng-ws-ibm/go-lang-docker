@@ -2,7 +2,7 @@ module github.com/sureng-ws-ibm/go-lang-docker
 
 go 1.17
 
-require github.com/docker/docker v20.10.13+incompatible
+require github.com/docker/docker v24.0.9+incompatible
 
 require (
 	github.com/Microsoft/go-winio v0.5.1 // indirect
